@@ -1,1 +1,1 @@
-# to-do_list_JS
+Projeto de lista de tarefas em JS, baseado no jogo RPG de simulação de vida no campo Stardew Valley. O objetivo é criar uma lista que possa ser utilizada para a organização de tarefas a serem realizadas no jogo, como plantar, cuidar dos animais, interagir com personagens, etc. O design e paleta de cores também são inspirados nos do jogo a fim de trazer um tom lúdico e imersivo. A mudança escolhida foi permitir categorizar as tarefas.
